@@ -1,0 +1,3 @@
+The network design is a major part of the infrastructure of a hospital. Internet speed is a major component of ensuring that healthcare providers and other professionals achieve timely access to pertinent information. 
+The main aim of this paper is to design a hospital network which meets the requirements of a hospital network like electronic health records, on-call doctors via video communication, billing department records, keeping track of the research in progress, etc.
+The aim is to provide secured LAN and WLAN network. The network is designed by keeping in mind of upcoming technology in medical field. This will increase the quality of hospital service along with patient safety and clinical effectiveness.
